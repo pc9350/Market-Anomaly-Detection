@@ -21,11 +21,11 @@ This project implements an early warning system for identifying potential financ
 
 ## Usage
 
-python
-Example usage
+```python
+# Example usage
 data_path = 'path/to/your/market_data.csv'
 api_key = 'your_groq_api_key'
-Run the strategy
+# Run the strategy
 run_strategy_example(data_path, api_key)
 
 ## Output Example
