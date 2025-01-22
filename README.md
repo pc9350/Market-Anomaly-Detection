@@ -28,6 +28,8 @@ api_key = 'your_groq_api_key'
 # Run the strategy
 run_strategy_example(data_path, api_key)
 
+```
+
 ## Output Example
 
 The system provides:
